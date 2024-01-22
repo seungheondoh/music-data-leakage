@@ -1,6 +1,6 @@
 # Music-Data-Leakage
 
-The Large Scale Audio Foundation model plays a crucial role in the field of Music Information Retrieval. To enhance its generalization capabilities, the model undergoes pretraining using extensive multi-source datasets. However, there is currently a lack of thorough investigation into the overlap between the test dataset used to evaluate the performance of pretrained models and the pretraining dataset. This gap in examining potential data leakage or contamination poses a significant challenge, as it can lead to a misguided evaluation of the pretraining model's efficacy, especially in terms of its ability to generalize to out-of-distribution datasets.
+The Large Scale Audio Foundation model plays a crucial role in the field of Music Information Retrieval. To enhance its generalization capabilities, the model undergoes pretraining using extensive multi-source datasets. However, there is currently a lack of thorough investigation into the overlap between the test dataset used to evaluate the performance of pretrained models and the pretraining dataset.
 
 [![image](https://i.imgur.com/nz1yBU4.png)]()
 
