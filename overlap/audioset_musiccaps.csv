@@ -1,4 +1,4 @@
-index,query_track_id,target_track_id,common_hashes,total_hashes,ratio
+,index,query_fname,target_fname,common_hashes,total_hashes,ratio
 0,4,1SqihV_DnEg,VM2qkDJyzxQ,108,108,1.0
 1,7,3tyb0cXoX2g,Um7oa961AIU,90,93,0.967741935483871
 2,29,I3qbB4Kq3Y0,O84YjlJ_Qw4,131,133,0.9849624060150376
