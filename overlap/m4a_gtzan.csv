@@ -1,0 +1,95 @@
+,query_track_id,target_track_id,score,query_text,target_text
+0,rock.00040,RfKfuACFDrHM5L2L,0.9542320966720581,The Crunge by Led Zeppelin from Houses of the Holy (Remastered),The Crunge by Led Zeppelin from Houses of the Holy (2014 Remaster)
+1,metal.00087,RLdI88g7XrZ23IAm,0.8215780258178711,So What by Metallica from Metallica (Deluxe Box Set),One by Metallica from ...And Justice for All (Remastered Deluxe Box Set)
+2,disco.00066,dK9Gux7gtQXpU7nx,1.0,Shake Your Groove Thing by Peaches & Herb from 2 Hot!,Shake Your Groove Thing by Peaches & Herb from 2 Hot!
+3,hiphop.00043,V600AT3qLIlXj1Aj,0.8286563158035278,Anything Can Happen by Wyclef Jean from Wyclef Jean presents The Carnival featuring Refugee Allstars,Guantanamera by Wyclef Jean from Wyclef Jean presents The Carnival featuring Refugee Allstars
+4,pop.00095,rswCv7cXVjwGmaiQ,0.8173701763153076,Love You for Always by Mandy Moore from So Real,Love Shot by Mandy Moore from So Real
+5,pop.00076,kyGTSiqPY0uQFS1U,1.0,Dance With Me by Jennifer Lopez from J. Lo,Dance With Me by Jennifer Lopez from J.Lo
+6,disco.00064,83z8OSgVyz0zdWtf,0.8567270040512085,"Funkytown by Lipps, Inc. from Mouth To Mouth","Funkytown by Lipps, Inc. from Disco Danger Mix"
+7,classical.00022,syWRYCR7E7wFGBSf,0.8547004461288452,"Symphony No. 40 in G Minor, K. 550: I. Molto Allegro by Sir Neville Marriner & Academy of St Martin in the Fields from Mozart Sinfonie Vol. 1","Symphony No. 40 in G Minor, K. 550: I. Molto allegro by Wolfgang Amadeus Mozart from Mozart: Symphony Nos.40 & 41 'Jupiter'"
+8,pop.00075,8NaGA4Mmu7LhuB5m,1.000000238418579,If You Had My Love by Jennifer Lopez from On The 6,If You Had My Love by Jennifer Lopez from On The 6
+9,blues.00020,sroWtFR5FZTHwavm,0.8995249271392822,"Preachin' Blues (Up Jumped the Devil) by Robert Johnson from King of the Delta Blues Singers, Vol. 2",Me and the Devil Blues by Robert Johnson from King Of The Delta Blues Singers
+10,jazz.00092,CmUIsO7OXG24rPD4,0.9715074300765991,Flamenco Sketches (Alternate Take) by Miles Davis from Kind of Blue (Legacy Edition),Flamenco Sketches by Miles Davis from Kind Of Blue (Legacy Edition)
+11,rock.00013,sPDxNXJ2GfNUUbZ4,1.0000001192092896,32 Flavors by Ani DiFranco from Not a Pretty Girl,32 Flavors by Ani DiFranco from Not A Pretty Girl
+12,hiphop.00064,H4bv5uyW0KRS3Yx2,0.8729947209358215,Sucka Nigga by A Tribe Called Quest from Midnight Marauders,Oh My God by A Tribe Called Quest from Midnight Marauders
+13,pop.00093,bLOuC1c4bYJXhCHX,0.8102850317955017,I Wanna Be With You (Soul Solution Remix - Radio Edit) by Mandy Moore from I Wanna Be With You,I Wanna Be With You by Mandy Moore from The Best of Mandy Moore
+14,blues.00027,rLZWUDlJB9nERxlA,0.8029674291610718,Hellhound On My Trail by Robert Johnson from King of the Delta Blues,Traveling Riverside Blues by Robert Johnson from King Of The Delta Blues Singers
+15,disco.00092,itK24FswQ3p2cpgZ,0.8191367387771606,Heart of Glass by Blondie from Parallel Lines,Heart of Glass by Blondie from Best Of Blondie
+16,rock.00031,pxVaoKZxCdPWNdEi,0.8375695943832397,Honky Tonk Women by The Rolling Stones from Honky Tonk Women / You Can't Always Get What You Want - EP,Honky Tonk Women by The Rolling Stones from Hot Rocks (1964-1971)
+17,blues.00022,Sc6j09CgAzypYb1f,0.9600896239280701,"Ramblin' On My Mind by Robert Johnson from King of the Delta Blues Singers, Vol. 2",Ramblin' On My Mind by Robert Johnson from King Of The Delta Blues
+18,rock.00045,osEXLEW9bozKofhd,0.9323630332946777,Ten Years Gone by Led Zeppelin from Physical Graffiti (Remastered),Ten Years Gone by Led Zeppelin from Physical Graffiti
+19,pop.00043,qcYUcxSZmBN1igkD,1.0000001192092896,Believe by Cher from Believe,Believe by Cher from Believe
+20,disco.00078,x20Z5VEY3LscXb7h,0.8194254636764526,I Am What I Am (2014 Club Version) by Gloria Gaynor from I Am What I Am (2014 Club Version) - Single,I Am What I Am by Gloria Gaynor from Gloria Gaynor '90 (All New Versions)
+21,metal.00038,oco3IF5BBhD19QJA,0.9478408098220825,...And Justice for All by Metallica from …And Justice for All (Remastered),...and Justice for All by Metallica from ...And Justice for All (Remastered Deluxe Box Set)
+22,hiphop.00062,Sh82Vu3juWALefsR,0.9097769260406494,"Keeping It Moving by A Tribe Called Quest from Beats, Rhymes & Life","Get a Hold by A Tribe Called Quest from Beats, Rhymes & Life"
+23,rock.00044,XKcjh5yaprjM71qQ,0.8126333951950073,Down By the Seaside by Led Zeppelin from Physical Graffiti (Remastered),Sick Again by Led Zeppelin from Physical Graffiti
+24,reggae.00071,V8y0J7Y8zBx9ESje,0.827144205570221,Big Ship by Freddie McGregor from Big Ship,Big Ship by Freddie McGregor from Freddie McGregor: The Anthology
+25,pop.00074,geb8NX1n5raKx7tH,1.0000001192092896,I'm Real by Jennifer Lopez from J. Lo,I'm Real by Jennifer Lopez from J.Lo
+26,metal.00027,TFa76CCLxgsu1Wlj,0.8018861413002014,Got The Time by Anthrax from Persistence Of Time,Belly Of The Beast by Anthrax from Persistence Of Time
+27,rock.00032,tj31bDdnHPx5Xqbf,0.8496052026748657,All My Love by Led Zeppelin from In Through the Out Door (Deluxe Edition),Stairway to Heaven by Led Zeppelin from Led Zeppelin IV (Deluxe Edition)
+28,disco.00062,inL3Q1H10dT7oWT1,1.0,Dance With Me by Peter Brown from A Fantasy Love Affair,Dance With Me by Peter Brown from A Fantasy Love Affair
+29,disco.00082,gpX7SnaMnmTlIvC8,0.8828587532043457,Disco Nights (Rock Freak) by G.Q. from Disco Nights (Expanded Edition),Disco Nights (Rock Freak) by G.Q. from More Monty
+30,hiphop.00044,V600AT3qLIlXj1Aj,0.9187557697296143,"Guantanamera (feat. Lauryn Hill, Celia Cruz & Jeni Fujita) by Wyclef Jean from Wyclef Jean presents The Carnival featuring Refugee Allstars",Guantanamera by Wyclef Jean from Wyclef Jean presents The Carnival featuring Refugee Allstars
+31,pop.00096,xMRjvbB6d4dKjjZj,0.8315145373344421,Quit Breaking My Heart by Mandy Moore from So Real,Lock Me In Your Heart by Mandy Moore from So Real
+32,hiphop.00073,jsyIbokybtgb3pmJ,0.9999997615814209,Jazz (We've Got) by A Tribe Called Quest from The Low End Theory,Jazz (We've Got) by A Tribe Called Quest from The Low End Theory
+33,hiphop.00070,ZAm0n50NCJTH6Rkv,0.8562573194503784,Buggin' Out by A Tribe Called Quest from The Low End Theory,Scenario by A Tribe Called Quest from The Low End Theory
+34,disco.00091,OzzPUS0F8YQxzM04,0.975598931312561,Fly Robin Fly by Silver Convention from Fly Robin Fly,Fly Robin Fly by Silver Convention from Silver Convention - Fly Robin Fly
+35,blues.00014,exkoGItSe5S61FQC,0.8481965065002441,Come On In My Kitchen by Robert Johnson from Guitar & Bass,Come on in My Kitchen by Robert Johnson from King Of The Delta Blues Singers
+36,pop.00079,xLfIc1W1z09zf31N,1.0000001192092896,Cloudbusting by Kate Bush from Hounds of Love,Cloudbusting by Kate Bush from Hounds Of Love
+37,blues.00017,xYGPO7c3AKZcsoEt,0.878955602645874,32-20 Blues by Robert Johnson from Guitar & Bass,32-20 Blues by Robert Johnson from The Centennial Collection
+38,metal.00025,W423srcfmB4fRFtp,0.9892669916152954,Peace Sells by Megadeth from Peace Sells... But Who's Buying? (25th Anniversary),Peace Sells by Megadeth from Peace Sells...But Who's Buying (25th Anniversary)
+39,hiphop.00065,ZAm0n50NCJTH6Rkv,0.8313131332397461,Check the Rhime by A Tribe Called Quest from The Low End Theory,Scenario by A Tribe Called Quest from The Low End Theory
+40,reggae.00084,Q7JM3OjglORhlrXZ,0.8276665806770325,The Harder They Come by Jimmy Cliff from The Harder They Come (Original Motion Picture Soundtrack),The Harder They Come by Jimmy Cliff from Ultimate Collection: Jimmy Cliff
+41,rock.00039,sso6xIoKTGeoYSXB,0.9492589235305786,The Song Remains the Same by Led Zeppelin from Houses of the Holy (Remastered),The Song Remains the Same by Led Zeppelin from Houses Of The Holy
+42,pop.00001,ir0hyOAPKf6faWcq,0.9999998211860657,Wasting My Time by Spice Girls from Forever,Wasting My Time by Spice Girls from Forever
+43,metal.00031,r9kdoGRGXcyN3TwG,1.0,Born to Raise Hell by Motörhead from Bastards,Born to Raise Hell by Motörhead from Bastards
+44,blues.00026,sroWtFR5FZTHwavm,0.8755450248718262,Me and the Devil Blues by Robert Johnson from Guitar & Bass,Me and the Devil Blues by Robert Johnson from King Of The Delta Blues Singers
+45,metal.00085,Twf6TtbjCndy2gMz,0.8063545227050781,Stayin' Alive by Ozzy Osbourne from ,Paranoid by Ozzy Osbourne from Tribute
+46,metal.00029,Ks0k3QPyJoene6GQ,0.9424384832382202,Glamour Boys by Living Colour from Vivid (Expanded Edition),Glamour Boys by Living Colour from Vivid
+47,rock.00086,Y83ym0BqfG6mUZMw,1.0,Jessie's Girl by Rick Springfield from Working Class Dog,Jessie's Girl by Rick Springfield from Working Class Dog
+48,rock.00042,mXmKrNtnsFLtRLHa,0.9512501955032349,D'yer Mak'er by Led Zeppelin from Houses of the Holy (Remastered),D'yer Mak'er by Led Zeppelin from Houses Of The Holy (Deluxe Edition)
+49,classical.00024,syWRYCR7E7wFGBSf,0.8030614852905273,"Symphony No. 40 in G Minor, K. 550: III. Menuetto by Sir Neville Marriner & Academy of St Martin in the Fields from Mozart Sinfonie Vol. 1","Symphony No. 40 in G Minor, K. 550: I. Molto allegro by Wolfgang Amadeus Mozart from Mozart: Symphony Nos.40 & 41 'Jupiter'"
+50,rock.00043,hfLHG1rpR1Gcsfeh,0.9546754360198975,The Ocean by Led Zeppelin from Houses of the Holy (Remastered),The Ocean - Remastered by Led Zeppelin from Houses Of The Holy (Deluxe Edition)
+51,pop.00072,PZ5hPyNGGjcUNwK5,1.000000238418579,Miss You Much by Janet Jackson from Rhythm Nation 1814,Miss You Much by Janet Jackson from Rhythm Nation 1814
+52,hiphop.00066,UDk326AjAHeFYpwD,0.9078007936477661,Bonita Applebum (includes 'Can I Kick It' Intro) by A Tribe Called Quest from People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),Bonita Applebum by A Tribe Called Quest from People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)
+53,pop.00013,yHeCiiIHO1xVjHGj,0.8499799966812134,"Every Time I Close My Eyes by Babyface, Mariah Carey, Kenny G & Sheila E. from The Day",Every Time I Close My Eyes by Babyface from The Day
+54,pop.00078,qpb5tRYOY0SGCJ4v,0.9999998211860657,Play by Jennifer Lopez from J. Lo,Play by Jennifer Lopez from J.Lo
+55,hiphop.00051,S7W1HT4gDzqTF8MB,1.0,Luck of Lucien by A Tribe Called Quest from People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition),Luck Of Lucien by A Tribe Called Quest from People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition)
+56,classical.00028,syWRYCR7E7wFGBSf,0.841789722442627,"Symphony No. 41 in C Major, K. 551 - ""Jupiter"": III. Menuetto (Allegretto) by Academy of St Martin in the Fields & Sir Neville Marriner from Mozart: Symphony No. 40, 41 & 25 (Classic FM: Full Works)","Symphony No. 40 in G Minor, K. 550: I. Molto allegro by Wolfgang Amadeus Mozart from Mozart: Symphony Nos.40 & 41 'Jupiter'"
+57,classical.00029,syWRYCR7E7wFGBSf,0.8622698783874512,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": IV. Molto allegro (Live At Teatro Comunale, Ferrara / 2006) by Claudio Abbado & Orchestra Mozart from ","Symphony No. 40 in G Minor, K. 550: I. Molto allegro by Wolfgang Amadeus Mozart from Mozart: Symphony Nos.40 & 41 'Jupiter'"
+58,pop.00088,Qi0w39MLiriZBUx7,0.8083016872406006,Candy by Mandy Moore from So Real,So Real by Mandy Moore from So Real
+59,blues.00018,xPobHnyFkVwBRAE9,0.8821907043457031,"Kind Hearted Woman Blues by Robert Johnson from King of the Delta Blues Singers, Vol. 2",Kind Hearted Woman Blues by Robert Johnson from The Centennial Collection
+60,rock.00088,cBramiKqr1KiIfu1,0.8278895616531372,The Stroke (2002 Remaster) by Billy Squier from The Essential Billy Squier,The Stroke - Remastered by Billy Squier from Don't Say No
+61,rock.00087,8BBlJKbqHzDr4ww8,0.8009933233261108,Rockin' In the Free World by Neil Young from Freedom,Freedom Rock by Frank Black from Teenager Of The Year
+62,country.00064,h6geCLv5JhaPhPZr,0.9548391103744507,I Will Always Love You by Dolly Parton from Something Special,I Will Always Love You by Dolly Parton from Jolene
+63,hiphop.00063,pwvgVqml2IhrETjN,0.9541225433349609,Find a Way by A Tribe Called Quest from The Love Movement (Deluxe Edition),Find a Way by A Tribe Called Quest from The Love Movement
+64,pop.00073,dymn4KJ6TtUuiKcZ,0.8456801772117615,Someone to Call My Lover by Janet Jackson from All for You,All My Love to You by Janet Jackson from Dream Street
+65,classical.00023,syWRYCR7E7wFGBSf,0.8443218469619751,"Symphony No. 40 in G Minor, K. 550: II. Andante by Academy of St Martin in the Fields & Sir Neville Marriner from Mozart: Symphony Nos. 40 & 41","Symphony No. 40 in G Minor, K. 550: I. Molto allegro by Wolfgang Amadeus Mozart from Mozart: Symphony Nos.40 & 41 'Jupiter'"
+66,rock.00047,e1VLkKl8TbLs8ytX,0.8362418413162231,The Wanton Song by Led Zeppelin from Physical Graffiti (Remastered),In the Light by Led Zeppelin from Physical Graffiti
+67,metal.00032,T9GLSza7joEC7KOY,0.8895484209060669,Blackout (Re-Recorded) by Scorpions from Comeblack (Special Edition),Blackout by Scorpions from Blackout
+68,metal.00073,IQIy9PRETzvTkvgw,0.8189609050750732,The Memory Remains (feat. Marianne Faithfull) by Metallica from Reload,The Memory Remains by Metallica from Reload
+69,pop.00063,fLTiQOBexyxRS4GI,0.8501362204551697,Ain't No Mountain High Enough by Diana Ross from ,Ain't No Mountain High Enough by Diana Ross from Diamond Diana: The Legacy Collection
+70,pop.00000,98mzlj5KlThDab2f,1.0,Saturate Me by Mandy Moore from Mandy Moore,Saturate Me by Mandy Moore from Mandy Moore
+71,country.00034,nGbehsrSHEb3SjhK,0.8046542406082153,"This Is What It Feels Like (feat. Trevor Guthrie) by Armin van Buuren from Armin Only - Intense ""The Music""",This Is What It Feels Like by Armin van Buuren from Intense
+72,jazz.00091,CmUIsO7OXG24rPD4,0.8602759838104248,Flamenco Sketches by Miles Davis from Miles in the Movies,Flamenco Sketches by Miles Davis from Kind Of Blue (Legacy Edition)
+73,rock.00046,e1VLkKl8TbLs8ytX,0.8433977365493774,Night Flight by Led Zeppelin from Physical Graffiti (Remastered),In the Light by Led Zeppelin from Physical Graffiti
+74,blues.00098,miGoravjm57LPxYg,0.8083024024963379,Iceman by Albert Collins from Albert Collins,"Cold, Cold Feeling by Albert Collins from Ice Pickin'"
+75,rock.00034,5ZkROTB0K8xuyg4c,0.9876768589019775,Space Oddity by David Bowie from David Bowie (2015 Remaster),Space Oddity by David Bowie from David Bowie (aka Space Oddity) [2015 Remaster]
+76,blues.00021,Jq8sKb0BbQuDbakL,0.961834192276001,When You Got a Good Friend by Robert Johnson from King of the Delta Blues,When You Got a Good Friend by Robert Johnson from King Of The Delta Blues Singers
+77,classical.00026,syWRYCR7E7wFGBSf,0.8646541237831116,"Symphony No. 41 in C Major, K. 551 ""Jupiter"": I. Allegro vivace by Academy of St Martin in the Fields & Sir Neville Marriner from Mozart: Symphony Nos. 40 & 41","Symphony No. 40 in G Minor, K. 550: I. Molto allegro by Wolfgang Amadeus Mozart from Mozart: Symphony Nos.40 & 41 'Jupiter'"
+78,metal.00028,Um0FHDAKLFXmEsNq,0.9650512933731079,Ace of Spades by Motörhead from Ace of Spades,Ace of Spades by Motörhead from Ace of Spades (Expanded Edition)
+79,disco.00086,nvwAr5B7JhBIw7L8,0.850101888179779,I Love the Nightlife (Disco 'Round) by Alicia Bridges from Alicia Bridges: The Collection,I Love the Nightlife by Alicia Bridges from I Love The Nightlife
+80,rock.00037,s8TOD1k3HFZHGY5y,0.9320427179336548,Brown Sugar by The Rolling Stones from Sticky Fingers (2015 Remaster),Brown Sugar by The Rolling Stones from Sticky Fingers (Remastered)
+81,rock.00041,C5paXs8lqPUDr9Ub,0.9438310265541077,Dancing Days by Led Zeppelin from Houses of the Holy (Remastered),Dancing Days by Led Zeppelin from Houses Of The Holy (Deluxe Edition)
+82,pop.00094,bLOuC1c4bYJXhCHX,0.9436375498771667,I Wanna Be With You by Mandy Moore from I Wanna Be With You,I Wanna Be With You by Mandy Moore from The Best of Mandy Moore
+83,rock.00036,NfSfEoxJmTd2T2Aj,0.9175513982772827,Movin' Out (Anthony's Song) by Billy Joel from The Stranger,Movin' Out (Anthony's Song) by Billy Joel from The Essential Billy Joel
+84,disco.00085,eH1juQdTcnCzxcEX,0.9999999403953552,Wordy Rappinghood by Tom Tom Club from Tom Tom Club,Wordy Rappinghood by Tom Tom Club from Tom Tom Club
+85,metal.00078,SBFCig5Nja92PXd6,1.000000238418579,Prince Charming by Metallica from Reload,Prince Charming by Metallica from Reload
+86,rock.00089,c7F2vTPw0vlVidnT,1.0,Against the Wind by Bob Seger & The Silver Bullet Band from Against the Wind,Against the Wind by Bob Seger & The Silver Bullet Band from Against The Wind
+87,pop.00070,SGTC1sYksMP5oLZX,1.0,I Get Lonely by Janet Jackson from The Velvet Rope,I Get Lonely by Janet Jackson from The Velvet Rope
+88,rock.00029,ejR44qUu17nbwANS,0.9030893445014954,Street Fighting Man by The Rolling Stones from Beggars Banquet (Remastered),Street Fighting Man by The Rolling Stones from Beggars Banquet (50th Anniversary Edition)
+89,blues.00028,rLZWUDlJB9nERxlA,0.9019058346748352,Traveling Riverside Blues by Robert Johnson from Guitar & Bass,Traveling Riverside Blues by Robert Johnson from King Of The Delta Blues Singers
+90,metal.00083,z9VPMaVZO48wtbj9,0.9747774600982666,For Whom the Bell Tolls (Remastered) by Metallica from Ride the Lightning (Remastered),For Whom The Bell Tolls (Remastered) by Metallica from Ride The Lightning (Deluxe Remaster)
+91,metal.00075,Ova9bRMy3Wi1KdEA,1.0,Until It Sleeps by Metallica from Load,Until It Sleeps by Metallica from Load
+92,blues.00016,bQIxtIWyMf9nxWED,0.9999998807907104,Last Fair Deal Gone Down by Robert Johnson from King of the Delta Blues Singers,Last Fair Deal Gone Down by Robert Johnson from King Of The Delta Blues Singers
+93,metal.00022,qWYx7kWKyiWXcFt0,0.9733333587646484,Crazy Train by Ozzy Osbourne from Blizzard of Ozz (40th Anniversary Expanded Edition),Crazy Train by Ozzy Osbourne from Blizzard of Ozz (Expanded Edition)
