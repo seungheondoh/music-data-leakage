@@ -32,3 +32,17 @@ The results are as follows and are gathered in the "overlap" folder.
 | MSD              | GTZAN              | 159                         |
 | Music4ALL        | MTT                | 31                          |
 | Music4ALL        | GTZAN              | 94                          |
+
+
+
+### Citation
+Please consider citing our paper in your publications if the project helps your research. BibTeX reference is as follow.
+
+```
+@inproceedings{doh2024enriching,
+  title={Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval},
+  author={Doh, SeungHeon and Lee, ♮Minhee and Jeong, Dasaem and Nam, Juhan},
+  booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2024}
+}
+```
