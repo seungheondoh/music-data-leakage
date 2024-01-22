@@ -41,7 +41,7 @@ Please consider citing our paper in your publications if the project helps your 
 ```
 @inproceedings{doh2024enriching,
   title={Enriching Music Descriptions with a Finetuned-LLM and Metadata for Text-to-Music Retrieval},
-  author={Doh, SeungHeon and Lee, ♮Minhee and Jeong, Dasaem and Nam, Juhan},
+  author={Doh, SeungHeon and Lee, Minhee and Jeong, Dasaem and Nam, Juhan},
   booktitle={ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
   year={2024}
 }
